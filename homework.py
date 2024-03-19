@@ -19,7 +19,6 @@ if user_mood == "happy":
 # MAX_LIMIT = <span class="hljs-number">1000</span>
 
 # Homework Queston 3
-
 variable_a = type(("Hello, World!"))
 print(variable_a)
 variable_b = type(23)
