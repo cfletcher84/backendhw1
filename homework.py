@@ -13,10 +13,10 @@ if user_mood == "happy":
     print("That's great to hear!")
 
 # Homework Question 2
-# pi_value = <span class="hljs-number">3.14</span>
-# user_age = <span class="hljs-number">25</span>
-# user_location = <span class="hljs-string">"New York"</span>
-# MAX_LIMIT = <span class="hljs-number">1000</span>
+pi_value = 3.14
+user_age = 25
+user_location = "New York"
+MAX_LIMIT = 1000
 
 # Homework Queston 3
 variable_a = type(("Hello, World!"))
